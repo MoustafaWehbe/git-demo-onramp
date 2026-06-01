@@ -1,4 +1,4 @@
-# My Project - by Alice
+# My Project - by Bob
 
 ## About
 
