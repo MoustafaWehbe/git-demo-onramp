@@ -1,4 +1,4 @@
-# My Project
+# My Project - by Bob
 
 ## About
 
